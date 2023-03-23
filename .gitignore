@@ -1,0 +1,6 @@
+/.vs/
+/.idea/
+/.vscode/
+.vsconfig
+
+*.DS_Store

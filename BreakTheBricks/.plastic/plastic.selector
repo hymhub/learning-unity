@@ -1,0 +1,4 @@
+repository "BreakTheBricks@my-demos@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
